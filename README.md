@@ -1,7 +1,7 @@
 # upload_images_with_nodejs_and_multer
 This application allows to upload pictures to a local folder through multer package
 
-###To clone the repository and run the project: 
+### To clone the repository and run the project: 
 
 #### Type on vsc console:
 
